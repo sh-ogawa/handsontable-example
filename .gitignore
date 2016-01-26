@@ -1,0 +1,8 @@
+/.idea
+/target
+*.iml
+.project
+*.ser
+*.log
+tomcat.*
+/src/test
